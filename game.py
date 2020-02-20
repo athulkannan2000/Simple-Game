@@ -1,5 +1,5 @@
 # Simple-Game
-It's a simple game written in python.
+#It's a simple game written in python.
 import time
 name = raw_input("Enter your name : ")
 print"  Hello  "+name," name to play AKthe_HULK "
